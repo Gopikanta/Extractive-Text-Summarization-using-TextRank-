@@ -11,8 +11,8 @@ This project demonstrates an **Extractive Text Summarization** technique using t
 - Applies the PageRank algorithm to rank sentences based on relevance.
 - Includes word repetition analysis and plots a frequency bar chart.
 
----
-
+--- 
+ 
 ## 🛠️ Technologies Used
 
 - **Python**
